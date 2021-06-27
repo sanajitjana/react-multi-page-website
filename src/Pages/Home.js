@@ -13,7 +13,7 @@ function Home() {
             />
           </div>
           <div className="col-lg-6 col-md-6 col-sm-6">
-            <h1 className="font-weight-light">Home</h1>
+            <h1 className="font-weight-light pb-2">Home page title</h1>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Consequatur ut cumque consectetur, fugiat vel nam quis? Atque,
@@ -41,6 +41,7 @@ function Home() {
               qui quisquam fugiat cum tenetur.
             </p>
             <br />
+            <h3 className="font-weight-light pb-2">Home page sub-title</h3>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Consequatur ut cumque consectetur, fugiat vel nam quis? Atque,
@@ -60,6 +61,24 @@ function Home() {
               molestias. Ducimus cumque, qui quisquam fugiat cum tenetur.
             </p>
             <br />
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Consequatur ut cumque consectetur, fugiat vel nam quis? Atque,
+              officiis inventore? Libero minima est molestias. Ducimus cumque,
+              qui quisquam fugiat cum tenetur. Lorem ipsum dolor sit amet
+              consectetur adipisicing elit. Consequatur ut cumque consectetur,
+              fugiat vel nam quis? Atque, officiis inventore? Libero minima est
+              molestias. Ducimus cumque, qui quisquam fugiat cum tenetur.
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Consequatur ut cumque consectetur, fugiat vel nam quis? Atque,
+              officiis inventore? Libero minima est molestias. Ducimus cumque,
+              qui quisquam fugiat cum tenetur. Lorem ipsum dolor sit amet
+              consectetur adipisicing elit. Consequatur ut cumque consectetur,
+              fugiat vel nam quis? Atque, officiis inventore? Libero minima est
+              molestias. Ducimus cumque, qui quisquam fugiat cum tenetur.
+            </p>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Consequatur ut cumque consectetur, fugiat vel nam quis? Atque,
