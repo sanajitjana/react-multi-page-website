@@ -7,9 +7,21 @@ function App() {
       <Router>
         <Navigation />
         <Switch>
-          <Route path="/" exact component={() => <Home />} />
-          <Route path="/about" exact component={() => <About />} />
-          <Route path="/contact" exact component={() => <Contact />} />
+          <Route
+            path="/react-multi-page-website/home"
+            exact
+            component={() => <Home />}
+          />
+          <Route
+            path="/react-multi-page-website/about"
+            exact
+            component={() => <About />}
+          />
+          <Route
+            path="/react-multi-page-website/contact"
+            exact
+            component={() => <Contact />}
+          />
         </Switch>
         <Footer />
       </Router>
