@@ -8,17 +8,17 @@ function App() {
         <Navigation />
         <Switch>
           <Route
-            path="/react-multi-page-website/home"
+            path="https://sanajitjana.github.io/react-multi-page-website/home"
             exact
             component={() => <Home />}
           />
           <Route
-            path="/react-multi-page-website/about"
+            path="https://sanajitjana.github.io/react-multi-page-website/about"
             exact
             component={() => <About />}
           />
           <Route
-            path="/react-multi-page-website/contact"
+            path="https://sanajitjana.github.io/react-multi-page-website/contact"
             exact
             component={() => <Contact />}
           />

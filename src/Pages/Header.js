@@ -8,7 +8,7 @@ function Navigation(props) {
         <div className="container">
           <Link
             className="navbar-brand"
-            to="https://sanajitjana.github.io/react-multi-page-website/"
+            to="https://sanajitjana.github.io/react-multi-page-website/home"
           >
             React Multi-Page Website
           </Link>
